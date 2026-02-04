@@ -1,14 +1,11 @@
 <div align="center">
 ```
-  ███████╗██╗ ██████╗     ██╗      ██████╗  █████╗ ██████╗ ███████╗██████╗ 
-  ╚══███╔╝██║██╔════╝     ██║     ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
-    ███╔╝ ██║██║  ███╗    ██║     ██║   ██║███████║██║  ██║█████╗  ██████╔╝
-   ███╔╝  ██║██║   ██║    ██║     ██║   ██║██╔══██║██║  ██║██╔══╝  ██╔══██╗
-  ███████╗██║╚██████╔╝    ███████╗╚██████╔╝██║  ██║██████╔╝███████╗██║  ██║
-  ╚══════╝╚═╝ ╚═════╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+  ╔════════════════════════════════╗
+  ║   ⚡ ZIG SHELLCODE LOADER ⚡   ║
+  ╚════════════════════════════════╝
 ```
 
-**Advanced Shellcode Execution Framework**
+**Zig Shellcode Loader**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://www.microsoft.com/windows)
