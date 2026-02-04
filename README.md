@@ -1,6 +1,6 @@
 <div align="center">
 
-**Zig Shellcode Loader**
+<h1>Zig Shellcode Loader</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://www.microsoft.com/windows)
