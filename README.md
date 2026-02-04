@@ -1,9 +1,4 @@
 <div align="center">
-```
-  ╔════════════════════════════════╗
-  ║   ⚡ ZIG SHELLCODE LOADER ⚡   ║
-  ╚════════════════════════════════╝
-```
 
 **Zig Shellcode Loader**
 
